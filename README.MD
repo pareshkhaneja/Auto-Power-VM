@@ -10,9 +10,9 @@ C:\Users\pkhaneja\Desktop>python Auto-Power-VM-CLI.py
 Hi, Before continue please make sure you have all the required configuration set in config.ini file.
 
 If sure, Please input 'y' and hit enter: y
-Please enter Corp Password for user admin
+Please enter Corp Password for user pkhaneja
 Password:
-Connected to Data Center - 10.119.11.11
+Connected to Data Center - 10.113.11.11
 VM1---> VM1 is present under Folder/Sub-Folder
 
 The state of VM1 is already OFF
