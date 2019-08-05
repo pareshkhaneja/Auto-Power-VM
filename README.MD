@@ -13,11 +13,11 @@ If sure, Please input 'y' and hit enter: y
 Please enter Corp Password for user pkhaneja
 Password:
 Connected to Data Center - 10.113.11.11
-VM1---> VM1 is present under Folder/Sub-Folder
+VM1---> VM1 is present under Folder-Name/Sub-Folder
 
 The state of VM1 is already OFF
 
-VM2---> VM2 is not found under Folder/Sub-Folder
+VM2---> VM2 is not found under Folder-Name/Sub-Folder
 
 Session Disconnected
 Thanks for using the Auto-Power-VM Command Line Utility!
@@ -26,10 +26,10 @@ Thanks for using the Auto-Power-VM Command Line Utility!
 Here is the sample config.ini file.
 ```
 [AutoPower]
-host=10.119.11.11
-username=admin
+host=10.113.11.11
+username=pkhaneja
 VM Name=VM1,VM2
-Folder=Folder
+Folder=Folder-Name
 Sub-Folder=Sub-Folder
 Desired Power State=OFF
 ```
