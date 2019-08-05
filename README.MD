@@ -33,6 +33,13 @@ Folder=Folder-Name
 Sub-Folder=Sub-Folder
 Desired Power State=OFF
 ```
+## Third Party Modules:
+#### Pyvmomi
+
+```
+python -m pip install pyvmomi
+
+```
 ### Points to remember:
 1. Don't change the section/variable name. You just need to provide the values. 
 2. There are only two desired Power States "ON" and "OFF"
